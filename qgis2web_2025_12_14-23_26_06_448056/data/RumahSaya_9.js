@@ -1,0 +1,1 @@
+var json_RumahSaya_9 = {"type":"FeatureCollection","name":"RumahSaya_9","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Nama":"Rumah Saya","Alamat":"Jl. Kenanga 4, Sumampir Kulon","Kode Pos":"53125"},"geometry":{"type":"MultiPoint","coordinates":[[109.236710159230398,-7.397812428835273]]}}]}
